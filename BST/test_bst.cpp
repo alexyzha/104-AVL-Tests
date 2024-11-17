@@ -317,7 +317,7 @@ TEST(BST,Iterator_Case3) {
 
 #endif
 
-#if DO_STRESS
+#if DO_BSTSTRESS
 
 TEST(BST,Stress_Insert) {
     //  ~150 ms on my machine
